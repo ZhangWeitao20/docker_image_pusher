@@ -1,4 +1,5 @@
 # alpine/ollama:0.12.10
 # redis:7.4.2
 # deepseek-r1:7b
-nodeshiftcloud/deepseek-r1:7b
+# nodeshiftcloud/deepseek-r1:7b
+labring/higress:v2.0.6
