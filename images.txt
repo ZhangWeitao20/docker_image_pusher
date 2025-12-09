@@ -1,1 +1,2 @@
-alpine/ollama:0.12.10
+# alpine/ollama:0.12.10
+redis:7.4.2
