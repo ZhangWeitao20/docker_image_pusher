@@ -2,4 +2,4 @@
 # redis:7.4.2
 # deepseek-r1:7b
 # nodeshiftcloud/deepseek-r1:7b
-apecloud/higress-gateway:2.0.3
+waiter2020/higress-all-in-one:0.1
