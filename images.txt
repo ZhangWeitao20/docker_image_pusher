@@ -2,4 +2,5 @@
 # redis:7.4.2
 # deepseek-r1:7b
 # nodeshiftcloud/deepseek-r1:7b
-waiter2020/higress-all-in-one:0.1
+# waiter2020/higress-all-in-one:0.1
+nginx:1.14.2
