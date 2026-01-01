@@ -5,4 +5,5 @@
 # waiter2020/higress-all-in-one:0.1
 # nginx:1.14.2
 # nginx:1.15.2
-qdrant/qdrant:v0.8.4
+# qdrant/qdrant:v0.8.4
+qdrant/qdrant:dev
