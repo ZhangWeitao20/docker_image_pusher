@@ -4,4 +4,5 @@
 # nodeshiftcloud/deepseek-r1:7b
 # waiter2020/higress-all-in-one:0.1
 # nginx:1.14.2
-nginx:1.15.2
+# nginx:1.15.2
+qdrant:v0.8.4
