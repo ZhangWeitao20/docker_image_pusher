@@ -9,4 +9,5 @@
 # qdrant/qdrant:dev
 # alpine/ollama:0.12.10
 # lobehub/lobe-chat
-jenkins/jenkins:2.479.2-lts
+# jenkins/jenkins:2.479.2-lts
+jenkins/jenkins:2.544-alpine-jdk17
