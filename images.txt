@@ -8,4 +8,5 @@
 # qdrant/qdrant:v0.8.4
 # qdrant/qdrant:dev
 # alpine/ollama:0.12.10
-lobehub/lobe-chat
+# lobehub/lobe-chat
+jenkins/jenkins:2.479.2-lts
